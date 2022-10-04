@@ -4,9 +4,9 @@ Build a Markdown Previewer. This is the second project of [FreeCodeCamp Front En
 
 This project was built with React.
 
-## Live Demonstration
+<!-- ## Live Demonstration
 
-Live project link: <https://rmasianjr.github.io/markdown-previewer/>
+Live project link: <https://rmasianjr.github.io/markdown-previewer/> -->
 
 ## Screenshot
 
@@ -56,7 +56,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+<!-- ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
@@ -70,4 +70,4 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+To learn React, check out the [React documentation](https://reactjs.org/). -->
