@@ -4,9 +4,9 @@ Build a Markdown Previewer. This is the second project of [FreeCodeCamp Front En
 
 This project was built with React.
 
-<!-- ## Live Demonstration
+## Live Demonstration 
 
-Live project link: <https://rmasianjr.github.io/markdown-previewer/> -->
+Live project link: <https://ernesthenry.github.io/markdown-previewer/> 
 
 ## Screenshot
 
