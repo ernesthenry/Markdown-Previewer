@@ -2,7 +2,7 @@
   "name": "markdown-previewer",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ernesthenry.github.io/markdown-previewer",
+  "homepage": "https://ernesthenry.github.io/Markdown-Previewer",
   "dependencies": {
     "marked": "^0.5.2",
     "react": "^16.6.3",
