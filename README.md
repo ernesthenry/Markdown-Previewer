@@ -6,7 +6,7 @@ This project was built with React.
 
 ## Live Demonstration 
 
-Live project link: <https://ernesthenry.github.io/markdown-previewer/> 
+Live project link: <https://ernesthenry.github.io/Markdown-Previewer/> 
 
 ## Screenshot
 
